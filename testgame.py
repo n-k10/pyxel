@@ -1,3 +1,4 @@
+#https://kitao.github.io/pyxel/web/launcher/?run=n-k10/pyxel/main/testgame&gamepad=enabled
 import pyxel
 import random
 
